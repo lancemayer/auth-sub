@@ -1,3 +1,4 @@
 setting1=true
 setting2=false
 app-two-setting1=42
+app-one-setting1=100
